@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/!$ReBat.png</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/!$ReBat_se.png</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/!$ReBat_xe.png</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/brick.png</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/BrickSound.wav</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/bullet.png</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/Columns.png</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/Controls/Button.png</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/Fonts/TimesNewRoman20.spritefont</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/Sky.png</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/Stars.png</File>
+    <File>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/Trees.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

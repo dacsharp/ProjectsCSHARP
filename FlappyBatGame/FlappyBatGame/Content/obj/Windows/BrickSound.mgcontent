@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/BrickSound.wav</SourceFile>
+  <SourceTime>2019-04-03T20:40:09.5909809-07:00</SourceTime>
+  <DestFile>C:/Users/Donner/source/repos/FlappyBatGame/FlappyBatGame/Content/bin/Windows/BrickSound.xnb</DestFile>
+  <DestTime>2019-04-24T19:31:44.9470285-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T08:35:54-08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T08:35:54-08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
