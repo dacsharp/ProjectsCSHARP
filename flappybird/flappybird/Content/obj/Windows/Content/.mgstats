@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/User/source/repos/flappybird/flappybird/Content/../../../../../Documents/Sky.png","C:/Users/User/source/repos/flappybird/flappybird/Content/bin/Windows/Content/Sky.xnb","TextureProcessor","Texture2DContent",214232,1658965,0.1994346
+"C:/Users/User/source/repos/flappybird/flappybird/Content/../../../../../Documents/Stars.png","C:/Users/User/source/repos/flappybird/flappybird/Content/bin/Windows/Content/Stars.xnb","TextureProcessor","Texture2DContent",6052,1658965,0.2163897
+"C:/Users/User/source/repos/flappybird/flappybird/Content/../../../../../Documents/Trees.png","C:/Users/User/source/repos/flappybird/flappybird/Content/bin/Windows/Content/Trees.xnb","TextureProcessor","Texture2DContent",28223,1658965,0.152661
+"C:/Users/User/source/repos/flappybird/flappybird/Content/Columns.png","C:/Users/User/source/repos/flappybird/flappybird/Content/bin/Windows/Content/Columns.xnb","TextureProcessor","Texture2DContent",17589,110677,0.0119609
